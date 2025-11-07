@@ -1,4 +1,4 @@
-EDAT or entropy driven adaptive trading model
+EDAT or entropy driven adaptive trading model (needs rewiring doesnt currently work)
 
 calculates 
 ε (micro-noise): variance of 1-min |Δmid| or tick-imbalance volatility (upticks–downticks over 30–60s).
